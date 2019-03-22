@@ -4,3 +4,9 @@ version = "0.1.0"
 authors = ["SerialDev"]
 
 [dependencies]
+log = "0.3"
+regex = "1.0"
+env_logger = "0.3"
+getopts = "0.2"
+linefeed = "0.2"
+tempfile = "1.1"
